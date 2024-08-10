@@ -1,0 +1,2 @@
+models/bigbuilding/source/seu_vella_jardi_claustre_7M/7M.ply filter=lfs diff=lfs merge=lfs -text
+models/sy-carola-point-cloud/source/Carola_PointCloud/Carola_PointCloud.ply filter=lfs diff=lfs merge=lfs -text
